@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Pagination"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
